@@ -74,4 +74,4 @@ If you have any questions about these Terms of Use, please contact us at:
 
 By using OneDay, you acknowledge that you have read, understood, and agreed to be bound by these Terms of Use.
 
-[Imprint](https://github.com/Chris20008/O-n-e-D-a-y-/blob/master/IMPRINT.md#imprint)
+[Imprint](https://chris20008.github.io/O-n-e-D-a-y-Info/imprint)
